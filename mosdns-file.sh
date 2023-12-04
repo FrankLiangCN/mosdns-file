@@ -1,5 +1,7 @@
 #!/bin/bash
 # 更新mosdns资源文件并重启mosdns
+# 创建文件夹
+mkdir -p /opt/mosdns
 # consts for mosdns files update
 PATH_FOR_DIRECT_LIST='/opt/mosdns/direct-list.txt'
 PATH_FOR_APPLE_CN='/opt/mosdns/apple-cn.txt'
