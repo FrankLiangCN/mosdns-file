@@ -4,7 +4,7 @@
 
 ### 一键脚本命令：
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/FrankLiangCN/mosdns-file/main/mosdns-file.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/FrankLiangCN/mosdns-file/main/mosdns-file.sh)
 ```
 ### 或者
 ```
