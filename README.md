@@ -4,9 +4,15 @@
 
 ### 一键脚本命令：
 ```
+bash <(curl -sSL https://raw.githubusercontent.com/FrankLiangCN/mosdns-file/main/mosdns.sh)
+```
+```
 bash <(curl -sSL https://raw.githubusercontent.com/FrankLiangCN/mosdns-file/main/mosdns-file.sh)
 ```
 ### 或者
+```
+wget -qO- https://raw.githubusercontent.com/FrankLiangCN/mosdns-file/main/mosdns.sh | bash
+```
 ```
 wget -qO- https://raw.githubusercontent.com/FrankLiangCN/mosdns-file/main/mosdns-file.sh | bash
 ```
