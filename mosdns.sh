@@ -107,6 +107,7 @@ touch /opt/mosdns/tld-not-cn.txt
 touch /opt/mosdns/force-nocn.txt
 touch /opt/mosdns/force-cn.txt
 touch /opt/mosdns/hosts.txt
+touch /opt/mosdns/redirect.txt
 #
 # restart mosdns
 docker restart mosdns
